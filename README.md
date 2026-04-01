@@ -36,6 +36,7 @@ Focused on personal growth, financial discipline, and building sustainable incom
 ## 🎓 Education
 **IBM Program**  
 Payap International College
+
 **Highschool deploma**  
 APIS
 
