@@ -1,32 +1,49 @@
-# turtle99g.github.io
-# Lahpai Gum Sha
+![Hey-BU-Blog-Headers](https://github.com/user-attachments/assets/b2a2ba93-2032-4548-8d6e-23a24872842d)
+<h1 align="center">Lahpai Gum Sha</h1>
 
-Chiang Mai, Thailand 
-gumsha2016@gmail.com
-[GitHub](https://github.com/turtle99g)
+<p align="center">
+📍 Chiang Mai, Thailand • 📧 gumsha2016@gmail.com  
+<br>
+🔗 <a href="https://github.com/turtle99g">GitHub</a>
+</p>
 
-## Profile
-I am intrested in long term investments and my personal goal is to grow and maintain wealth. 
+---
 
-##  Skills
-- Grate communicator, proficent in English.
-- Human Wiki
-- grate home cook
+## 🧑‍💼 Profile
+Motivated individual with a strong interest in long-term investing and wealth management. 
+Focused on personal growth, financial discipline, and building sustainable income over time.
 
-##  Experience
+---
 
-### Student – Lahpai House
-I did, teaching side gig on summer of 2019
-I did promoter in 2022
-I drove clients 2025-26
+## 🛠 Skills
+- Strong communicator (Fluent in English)
+- Quick learner (“human wiki” – fast at researching and understanding topics)
+- Home cooking
+- Customer interaction & basic sales
 
-##  Education
+---
 
-IBM - Paypa International Collage
+## 💼 Experience
 
-##  Certifications
-- Highschool deploma
+### Student – Lahpai House  
+*2019 – Present*
+- Worked as a tutor during summer 2019
+- Promoter role in 2022 (customer engagement & outreach)
+- Provided transportation services for clients (2025–2026)
 
-##  Languages
+---
+
+## 🎓 Education
+**IBM Program**  
+Payap International College
+
+---
+
+## 🏆 Certifications
+- High School Diploma
+
+---
+
+## 🌐 Languages
 - English (Fluent)
-- Myanmar(kachin) (Native)
+- Myanmar (Kachin) (Native)
