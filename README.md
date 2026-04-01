@@ -29,4 +29,4 @@ IBM - Paypa International Collage
 
 ##  Languages
 - English (Fluent)
-- Myan,ar(kachin) (Native)
+- Myanmar(kachin) (Native)
